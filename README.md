@@ -1,6 +1,7 @@
 # 🦜 Generative Deep Learning - 2nd Edition Codebase
 
-The official code repository for the second edition of the O'Reilly book *Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play*.
+A fork of the official code repository for the second edition of the O'Reilly book *Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play*.
+Modified for native use on a Mac.
 
 [O'Reilly link](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
 
